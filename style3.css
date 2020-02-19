@@ -1,0 +1,62 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+#nav-bar img
+{
+    height:80px;
+    width:150px;
+}
+
+#cohort-table
+{
+    margin-top:20px;
+}
+#cohort-table .table .td1
+{
+    background-color:#011f4b;
+}
+#graph
+{
+    margin-top: 30px;
+    padding-bottom: 50px;
+}
+
+#graph h1
+{
+    font-weight: bold;
+    font-size:45px;
+    color:black;
+}
+#graph h1::after
+{
+    display:block;
+    background:red;
+    height:3px;
+    width:170px;
+    margin:10px auto;
+    content:'';
+}
+
+
+#column-chart
+{
+    margin-top: 45px;
+    padding-top: 20px;
+}
+#column-chart h1
+{
+    font-weight: bold;
+    font-size:45px;
+    color:black;
+}
+#column-chart h1::after
+{
+    display:block;
+    background:red;
+    height:3px;
+    width:170px;
+    margin:10px auto;
+    content:'';
+}
